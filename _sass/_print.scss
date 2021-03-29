@@ -3,9 +3,6 @@
     @page {
         size: A4;
     }
-   a[href]:after {
-      content: none !important;
-   }
     
     body {
        font-size: 12pt;
@@ -15,6 +12,9 @@
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
+   .no-print-url[href]:after {
+      content: none !important;
+   }
    .stackoverflow-flair {
       //used for stackoverflow flair
       filter: grayscale(1) contrast(1) brightness(90%);
