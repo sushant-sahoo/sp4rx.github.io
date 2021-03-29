@@ -47,7 +47,7 @@ career-profile:
     title: Career Profile
     summary: |
       Experienced Android Developer with a demonstrated history of working in the information technology and services industry.
-      Skilled in Android Development, Java, Retrofit, Dagger, MVVM pattern.
+      Skilled in Android Development, Java, Kotlin, Retrofit, Dagger, MVVM pattern, Jenkins, Docker.
 education:
     - degree: B.Tech in Computer Science & Engineering
       university: St. Thomas' College of Engineering and Technology, Kolkata
@@ -63,6 +63,8 @@ experiences:
         Worked on the bellow features.
           - Live video streaming
           - Socket communication 
+          - Written Jenkins script in groovy for building android apk and notify status updates on slack.
+          - Dockerise FE project for develpment and qa.
 
     - role: Software Engineer
       time: 02/02/2020 - 31/07/2020
@@ -138,19 +140,17 @@ skills:
       - name: Java
         level: 80%
 
-      - name: MVVM
-        level: 70%
+      - name: Kotlin
+        level: 70%     
 
-      - name: MVP
-        level: 70%
-
-      - name: Dagger
-        level: 60%
-
-      - name: Rx Java
-        level: 50%
       - name: React Native
         level: 20%
 
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Docker
+        level: 50% 
+        
+      - name: Jenkins
+        level: 50%    
+
+footer: >
+    Please print this page and save it as pdf 🖨️
