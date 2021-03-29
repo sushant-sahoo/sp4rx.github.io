@@ -153,4 +153,5 @@ skills:
         level: 50%    
 
 footer: >
-    Please print this page and save it as pdf 🖨️
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley.</a><br>
+  <a  onclick="window.print()" href="javascript:void(0)">Please print this and save as PDF <i class="fas fa-print"></i></a>
