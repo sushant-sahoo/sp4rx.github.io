@@ -65,6 +65,7 @@ experiences:
           - Socket communication 
           - Written Jenkins script in groovy for building android apk and notify status updates on slack.
           - Dockerise FE project for develpment and qa.
+          - React JS
 
     - role: Software Engineer
       time: 02/02/2020 - 31/07/2020
