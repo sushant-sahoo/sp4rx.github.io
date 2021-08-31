@@ -71,6 +71,7 @@ experiences:
       time: 02/02/2020 - 31/07/2020
       company: Bounce, Bangalore
       details: |
+        (GOT LAID OFF DUE TO COVID 😞)
         [Bounce](https://play.google.com/store/apps/details?id=com.metrobikes.app): This is a rental scooter & bike service that helps transform mobility for thousands of daily commuters by providing comfortable & affordable rental rides. 
         I joined the flutter team initially on the consumer side.
         
@@ -114,6 +115,7 @@ experiences:
       time: 12/03/2018 - 31/05/2018
       company: STUPIDCHAT TECHNOLOGY, Bangalore
       details: |
+        [(Acquihired by Vokal)](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/vokal-acquihires-quizzing-app-company-stupidchat/articleshow/64378626.cms)
         [StupidApp](https://play.google.com/store/apps/details?id=chat.stupid.app):
         StupidApp is a quiz and trivia based gaming app that offers big prize
         money to the winners. Our
@@ -146,6 +148,9 @@ skills:
 
       - name: React Native
         level: 20%
+                
+      - name: React JS
+        level: 50%
 
       - name: Docker
         level: 50% 
