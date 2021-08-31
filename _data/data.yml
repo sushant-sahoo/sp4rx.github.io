@@ -65,13 +65,12 @@ experiences:
           - Socket communication 
           - Written Jenkins script in groovy for building android apk and notify status updates on slack.
           - Dockerise FE project for develpment and qa.
-          - React JS
+          - Got decent idea of react and next js by contributing to the vedantu website.
 
     - role: Software Engineer
       time: 02/02/2020 - 31/07/2020
       company: Bounce, Bangalore
       details: |
-        (GOT LAID OFF DUE TO COVID 😞)
         [Bounce](https://play.google.com/store/apps/details?id=com.metrobikes.app): This is a rental scooter & bike service that helps transform mobility for thousands of daily commuters by providing comfortable & affordable rental rides. 
         I joined the flutter team initially on the consumer side.
         
@@ -83,7 +82,8 @@ experiences:
           - Earnings
           - Incentives
           - Setup [Sentry](https://sentry.io/)(Crash Reporting)
-
+        
+        (They did a mass layoff due to covid 😞. Not sure about my future here that's why left)
     - role: SDE II
       time: 28/01/2019 - 19/02/2020
       company: Leher.ai Pvt. Ltd, Bangalore
@@ -115,7 +115,6 @@ experiences:
       time: 12/03/2018 - 31/05/2018
       company: STUPIDCHAT TECHNOLOGY, Bangalore
       details: |
-        [(Acquihired by Vokal)](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/vokal-acquihires-quizzing-app-company-stupidchat/articleshow/64378626.cms)
         [StupidApp](https://play.google.com/store/apps/details?id=chat.stupid.app):
         StupidApp is a quiz and trivia based gaming app that offers big prize
         money to the winners. Our
@@ -126,6 +125,8 @@ experiences:
           includes sent, delivered and read feature.
           - Worked on the vernacular feature.
           - Bug fixes on socket.io part in android.
+
+        [(Acquihired by Vokal)](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/vokal-acquihires-quizzing-app-company-stupidchat/articleshow/64378626.cms)
     - role: Android developer
       time: 27/01/2017 - 31/02/2018
       company: Sitegalleria Pvt. Ltd, Bangalore
