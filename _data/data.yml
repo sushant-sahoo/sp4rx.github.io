@@ -20,14 +20,14 @@ sidebar:
     telegram: 
     gitlab:
     bitbucket:
-    twitter: '@heysuvajit'
-    stack-overflow: 4768512/sp4rx # Number/Username, e.g. 123456/alandoe
-    stack-overflow-flair: True #Set True to show flair. https://stackoverflow.com/users/<id>/<username>/flair
+    twitter: 
+    stack-overflow: 
+    stack-overflow-flair: 
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Bengali
+      - idiom: Oriya
         level: Native
 
       - idiom: English
@@ -37,42 +37,37 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Gaming
-        link: https://steamcommunity.com/id/suvajit/
-
-      - item: Youtube
-        link: https://www.youtube.com/channel/UCNEc66v1URIQ6q5lY3GrO_Q
-
+      - item: Playing Game
+        
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Android Developer with a demonstrated history of working in the information technology and services industry.
-      Skilled in Android Development, Java, Kotlin, Retrofit, Dagger, MVVM pattern, Jenkins, Docker.
+      Approximately 10 years of experience in product/application development and innovation in iOS/android
 education:
-    - degree: B.Tech in Computer Science & Engineering
-      university: St. Thomas' College of Engineering and Technology, Kolkata
-      time: 01/06/2013 - 01/06/2016
+    - degree: MCA,  
+      university: BPUT,Odisha, Bhubaneswar,
+      time: 2007-2010
 experiences:
-    - role: Software Engineer
-      time: 04/08/2020 - Present
+    - role: Senior Software Engineer
+      time: Jan 2020 - Present
       company: Vedantu, Bangalore
       details: |
         [Vedantu](https://www.vedantu.com/): Vedantu is the pioneer of LIVE Online learning in India and has redefined online education since. In these difficult times, our aim is to ensure that learning is not interrupted for students
-        I joined the Growth team and working on their vquiz.
        
         Worked on the bellow features.
-          - Live video streaming
-          - Socket communication 
-          - Written Jenkins script in groovy for building android apk and notify status updates on slack.
-          - Dockerise FE project for develpment and qa.
-          - Got decent idea of react and next js by contributing to the vedantu website.
-
-    - role: Software Engineer
-      time: 02/02/2020 - 31/07/2020
-      company: Bounce, Bangalore
+          - Application Revamp
+          - application performance
+          - Integrated 3rd party SDK.
+          - Live/Upcoming classes and its details section and many product feature
+          
+          
+    - role: Senior Software Engineer
+      time: 2017 - 2020
+      company: mFine, Bangalore
       details: |
-        [Bounce](https://play.google.com/store/apps/details?id=com.metrobikes.app): This is a rental scooter & bike service that helps transform mobility for thousands of daily commuters by providing comfortable & affordable rental rides. 
-        I joined the flutter team initially on the consumer side.
+        [mFine](https://itunes.apple.com/in/app/mfine-care/id1308944633?mt=8): mfine is a digital health platform that aggregates the best hospitals and their doctors 
+        from your city and nearby area to provide on-demand healthcare services. It has two two apps, one is for doctor and other one is for patient
+
         
         Worked on the bellow features.
           - Kirana
